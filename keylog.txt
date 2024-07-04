@@ -1,0 +1,3 @@
+H [SPACE] e l l o [ENTER]
+W o r l d [SPACE] ! [ENTER]
+ [ESC] 
